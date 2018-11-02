@@ -12,7 +12,6 @@
 <body>
 
 <div class="ui borderless topmenu menu">
-  <div class="ui container" >
     <a class="fitted item"><i class="facebook f icon"></i></a>
     <a class="fitted item"><i class="twitter icon"></i></a>
     <a class="fitted item"><i class="pinterest icon"></i></a>
@@ -28,7 +27,6 @@
       </div>
     </div>
 
-  </div>
 </div>
 
 <img class="ui centered top image" src="coug.jpg" width="200px">
@@ -76,20 +74,21 @@
       </div>
     </div>
 
-    <a class="item"> SEARCH </a>
-
+    <div class="item"> SEARCH </div>
+  </div>
+</div>
   </div>
 </div>
 
-<div>
-  <img class="ui fluid image" src="centerimage.jpg">
-</div>
 
+  <img class="ui fluid image" src="centerimage.jpg">
+
+<footer>
 <div class=" footer-background">
   <div class = "ui three column grid container">
-    <div class="Column">
+    <div class="column">
        NAVIGATION
-    <hr/>
+    <hr>
       <div class="ui list">
         <div class="item">About Us</div>
         <div class="item">Videos</div>
@@ -97,8 +96,8 @@
       </div>
     </div>
 
-    <div class="Column">
-      MAINMENU
+    <div class="column">
+      MAIN MENU
     <hr/>
       <div class="ui list">
         <div class="item">Text Books</div>
@@ -106,7 +105,7 @@
         <div class="item">Gifts </div>
       </div>
     </div>
-    <div class="Column">
+    <div class="column">
       CONNECT
       <hr/>
       <div class="ui list">
@@ -115,22 +114,32 @@
           <input type="text" placeholder="Enter email address">
             <div class="ui  label">
               Join
-              
-
+            </div>
           </div>
-          </div>
-        </div>
       </div>
     </div>
-    </div>
-
-
-
+    <div class="row0" style="background-color: rgb(41,41,41)"> <hr> </div>
+    <div class="row1" style="background-color: rgb(41,41,41)">
+        <div class="ui centered grid container">
+      <a class="item"><i class=" facebook f inverted big icon"></i></a>
+      <a class="fitted center item"><i class=" twitter inverted big icon "></i></a>
+      <a class="fitted center item"><i class="pinterest inverted big icon"></i></a>
+      <a class="fitted center item"><i class=" instagram inverted big icon"></i></a>
+      </div>
+  </div>
+    <div class="row2" style="background-color: rgb(41,41,41)">
+      <div class="ui centered grid container">
+        <p class="color">COPYRIGHT © 2018 WASHINGTON STATE UNIVERSITY VANCOUVER</p>
+      </div>
+</div>
+</div>
+</div>
 
 <script>
-  $('.ui.dropdown')
-      .dropdown()
-  ;
+  $('.ui.dropdown.item')
+      .dropdown() ;
 </script>
+
+</footer>
 </body>
 </html>
