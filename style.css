@@ -4,3 +4,26 @@
   border: none;
 
 }
+
+.ui.fluid.image{
+  padding-top: 50px;
+}
+
+.ui.centered.top.image{
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+
+.ui.borderless.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+
+.footer-background{
+  background-color: #292929;
+  color: white;
+  padding-top: 50px ;
+  padding-bottom: 50px;
+}
