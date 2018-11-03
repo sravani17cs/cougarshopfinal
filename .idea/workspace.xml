@@ -39,39 +39,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="754" />
-          <entry key="html" value="1342" />
+          <entry key="css" value="812" />
+          <entry key="html" value="1381" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="754" />
-          <entry key="HTML" value="1342" />
+          <entry key="CSS" value="812" />
+          <entry key="HTML" value="1381" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2397">
-              <caret line="141" lean-forward="true" selection-start-line="141" selection-end-line="141" />
-              <folding>
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="514">
+              <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -92,8 +78,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -103,7 +89,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="706" />
     <option name="y" value="24" />
     <option name="width" value="660" />
@@ -140,7 +126,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541198499606" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541216283308" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -185,17 +171,18 @@
       <workItem from="1541022442509" duration="1440000" />
       <workItem from="1541094597873" duration="664000" />
       <workItem from="1541110722123" duration="2036000" />
-      <workItem from="1541178072502" duration="15889000" />
+      <workItem from="1541178072502" duration="17819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30750000" />
+    <option name="totallyTimeSpent" value="32680000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11951589" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11951589" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -234,22 +221,22 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2397">
-          <caret line="141" lean-forward="true" selection-start-line="141" selection-end-line="141" />
+        <state relative-caret-position="2414">
+          <caret line="142" column="9" lean-forward="true" selection-start-line="142" selection-start-column="9" selection-end-line="142" selection-end-column="9" />
           <folding>
             <element signature="n#style#0;n#div#3;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#4;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#5;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
         </state>
       </provider>
     </entry>
