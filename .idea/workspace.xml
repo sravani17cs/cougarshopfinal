@@ -139,7 +139,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541216552406" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541216565962" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -184,12 +184,12 @@
       <workItem from="1541022442509" duration="1440000" />
       <workItem from="1541094597873" duration="664000" />
       <workItem from="1541110722123" duration="2036000" />
-      <workItem from="1541178072502" duration="18191000" />
+      <workItem from="1541178072502" duration="18508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33052000" />
+    <option name="totallyTimeSpent" value="33369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
